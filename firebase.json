@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "sharemy-calendar",
+    "public": "./",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

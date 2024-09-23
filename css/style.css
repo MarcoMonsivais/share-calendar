@@ -8210,12 +8210,12 @@ h1, h2, h3, h4, h5,
   clear: both; }
 
 .event-card {
-  padding: 20px 0;
+  padding: 10px 0;
   max-width: 100%;
   display: block;
   background: #fff;
   border: none !important;
-  margin: 20px;
+  margin: 10px;
   margin-left: 12px; }
   @media (max-width: 991.98px) {
     .event-card {
